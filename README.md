@@ -1,5 +1,3 @@
-# anti-yt-shorts
-
 Avoid distractions by completely removing the YouTube Shorts feature from YouTube.
 
 ## Installing
@@ -7,4 +5,6 @@ Avoid distractions by completely removing the YouTube Shorts feature from YouTub
 > [!IMPORTANT]
 > Before you install anything, make sure you have an extension to run userscripts (Personally I'd recommend [Violetmonkey](https://violentmonkey.github.io/) or [Tampermonkey](https://www.tampermonkey.net/)). These kinds of extensions allow for automatically modifying any kind of website that the script you install is targeted to.
 
-### [INSTALL USERSCRIPT]()
+<div align="center">
+  <h3><a href="">INSTALL USERSCRIPT</a></h3>
+</div>
